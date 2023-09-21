@@ -11,14 +11,24 @@
       "genero": "Masculino"
     },
     {
-      "nombre": "test",
-      "genero": "test2",
+      "nombre": "Manjarcito",
+      "genero": "Machito",
       "id": 3
     },
     {
       "id": 5,
       "nombre": "Fofo",
-      "genero": "Perro"
+      "genero": "Machito"
+    },
+    {
+      "nombre": "Mastito",
+      "genero": "Hembra",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "nombre": "Chica",
+      "genero": "Hembra"
     }
   ]
 }
